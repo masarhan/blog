@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'ar'
+title = 'الكتيب'
+theme = 'etch'
