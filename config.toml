@@ -1,3 +1,4 @@
+baseURL = '/'
 languageCode = 'ar'
 title = 'الكتيب'
 theme = 'etch'
@@ -11,16 +12,16 @@ theme = 'etch'
 [menu]
   [[menu.main]]
     identifier = "posts"
-    name = "posts"
-    title = "المنشورات"
+    name = "المنشورات"
+    title = "posts"
     url = "/"
     weight = 10
 
   [[menu.main]]
     identifier = "archive"
     name = "الأرشيف"
-    title = "about"
-    url = "/about/"
+    title = "archive"
+    url = "/archive/"
     weight = 20
 
 [permalinks]
