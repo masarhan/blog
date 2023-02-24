@@ -12,13 +12,13 @@ theme = 'etch'
   [[menu.main]]
     identifier = "posts"
     name = "posts"
-    title = "posts"
+    title = "المنشورات"
     url = "/"
     weight = 10
 
   [[menu.main]]
-    identifier = "about"
-    name = "about"
+    identifier = "archive"
+    name = "الأرشيف"
     title = "about"
     url = "/about/"
     weight = 20
