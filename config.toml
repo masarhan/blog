@@ -4,25 +4,5 @@ title = 'الكتيب'
 theme = 'etch'
 
 [params]
-  description = "Your site description"
-  copyright = "Copyright © 2021 Your Name"
   dark = "auto"
   highlight = true
-
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "المنشورات"
-    title = "posts"
-    url = "/"
-    weight = 10
-
-  [[menu.main]]
-    identifier = "archive"
-    name = "الأرشيف"
-    title = "archive"
-    url = "/archive/"
-    weight = 20
-
-[permalinks]
-  posts = "/:title/"
