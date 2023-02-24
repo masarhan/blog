@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'mo-handbook.netlify.app'
 languageCode = 'ar'
 title = 'الكتيب'
 theme = 'etch'
